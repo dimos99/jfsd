@@ -1,0 +1,3 @@
+[submodule "jax-md"]
+	path = jax-md
+	url = https://github.com/dimos99/jax-md
